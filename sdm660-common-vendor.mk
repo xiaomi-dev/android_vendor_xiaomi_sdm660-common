@@ -408,7 +408,6 @@ PRODUCT_PACKAGES += \
     libimsmedia_jni \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.fm@1.0 \
-    SoterService \
     CneApp \
     IWlanService \
     TimeService \
